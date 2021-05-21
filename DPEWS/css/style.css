@@ -1,0 +1,14 @@
+html {
+  font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+.principal {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.login-background {
+  height: 200px;
+  position: relative;
+  margin-top: 50%;
+}
